@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\kursclient\\viewmodels\\passengerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|solutionrelative:kursclient\\viewmodels\\passengerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\kursclient\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|solutionrelative:kursclient\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|solutionrelative:kursclient\\views\\addeditpassenger.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\kursclient\\viewmodels\\passengerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|solutionrelative:kursclient\\viewmodels\\passengerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\kursclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E3159DBF-3E01-4BF7-811D-79FAF975B312}|KursClient\\KursClient.csproj|solutionrelative:kursclient\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -145,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\models\\freeplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\models\\freeplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|solutionrelative:mycurss\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8E7A449-6C93-4771-A5F3-2E033F0CB9C3}|MyCursS\\MyCursS.csproj|c:\\users\\miha0_o\\desktop\\mycurss\\mycurss\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,11 +202,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 10,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "KursClient\\Services\\AuthService.cs",
@@ -226,12 +226,123 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AviaIarnoContext.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\AviaIarnoContext.cs",
+              "RelativeDocumentMoniker": "MyCursS\\Models\\AviaIarnoContext.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\AviaIarnoContext.cs",
+              "RelativeToolTip": "MyCursS\\Models\\AviaIarnoContext.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:01:03.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Flight.cs",
+              "RelativeDocumentMoniker": "MyCursS\\Models\\Flight.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Flight.cs",
+              "RelativeToolTip": "MyCursS\\Models\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:01:45.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\FlightViewModel.cs",
+              "RelativeDocumentMoniker": "KursClient\\ViewModels\\FlightViewModel.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\FlightViewModel.cs",
+              "RelativeToolTip": "KursClient\\ViewModels\\FlightViewModel.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAtwHAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T07:35:04.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "KursClient\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\FlightService.cs",
+              "RelativeToolTip": "KursClient\\Services\\FlightService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:05:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "KursClient\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\BaseService.cs",
+              "RelativeToolTip": "KursClient\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T08:04:55.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassengerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\PassengerViewModel.cs",
+              "RelativeDocumentMoniker": "KursClient\\ViewModels\\PassengerViewModel.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\PassengerViewModel.cs",
+              "RelativeToolTip": "KursClient\\ViewModels\\PassengerViewModel.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:06:56.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "MyCursS\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "MyCursS\\Controllers\\PassengerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:26:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "MyCursS\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Passenger.cs",
+              "RelativeToolTip": "MyCursS\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:02:50.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Services\\PassengerService.cs",
+              "RelativeDocumentMoniker": "MyCursS\\Services\\PassengerService.cs",
+              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Services\\PassengerService.cs",
+              "RelativeToolTip": "MyCursS\\Services\\PassengerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T11:23:53.576Z"
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PassengerService.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\PassengerService.cs",
               "RelativeDocumentMoniker": "KursClient\\Services\\PassengerService.cs",
@@ -244,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FlightService.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Services\\FlightService.cs",
               "RelativeDocumentMoniker": "MyCursS\\Services\\FlightService.cs",
@@ -252,88 +363,11 @@
               "RelativeToolTip": "MyCursS\\Services\\FlightService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T10:32:56.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-09T10:32:56.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PassengerService.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Services\\PassengerService.cs",
-              "RelativeDocumentMoniker": "MyCursS\\Services\\PassengerService.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Services\\PassengerService.cs",
-              "RelativeToolTip": "MyCursS\\Services\\PassengerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T11:23:53.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AviaIarnoContext.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\AviaIarnoContext.cs",
-              "RelativeDocumentMoniker": "MyCursS\\Models\\AviaIarnoContext.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\AviaIarnoContext.cs",
-              "RelativeToolTip": "MyCursS\\Models\\AviaIarnoContext.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T08:01:03.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Flight.cs",
-              "RelativeDocumentMoniker": "MyCursS\\Models\\Flight.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Flight.cs",
-              "RelativeToolTip": "MyCursS\\Models\\Flight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:01:45.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FlightViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\FlightViewModel.cs",
-              "RelativeDocumentMoniker": "KursClient\\ViewModels\\FlightViewModel.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\FlightViewModel.cs",
-              "RelativeToolTip": "KursClient\\ViewModels\\FlightViewModel.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAtwHAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T07:35:04.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FlightService.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\FlightService.cs",
-              "RelativeDocumentMoniker": "KursClient\\Services\\FlightService.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\FlightService.cs",
-              "RelativeToolTip": "KursClient\\Services\\FlightService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T08:05:08.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\BaseService.cs",
-              "RelativeDocumentMoniker": "KursClient\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Services\\BaseService.cs",
-              "RelativeToolTip": "KursClient\\Services\\BaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T08:04:55.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "FlightController.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Controllers\\FlightController.cs",
               "RelativeDocumentMoniker": "MyCursS\\Controllers\\FlightController.cs",
@@ -345,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Passenger.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Models\\Passenger.cs",
               "RelativeDocumentMoniker": "KursClient\\Models\\Passenger.cs",
@@ -353,24 +387,11 @@
               "RelativeToolTip": "KursClient\\Models\\Passenger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T09:15:41.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T09:15:41.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PassengerController.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Controllers\\PassengerController.cs",
-              "RelativeDocumentMoniker": "MyCursS\\Controllers\\PassengerController.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Controllers\\PassengerController.cs",
-              "RelativeToolTip": "MyCursS\\Controllers\\PassengerController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T11:26:31.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "PassengerView.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\PassengerView.xaml",
               "RelativeDocumentMoniker": "KursClient\\Views\\PassengerView.xaml",
@@ -381,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\appsettings.json",
               "RelativeDocumentMoniker": "MyCursS\\appsettings.json",
@@ -393,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "RegisterUser.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Models\\RegisterUser.cs",
               "RelativeDocumentMoniker": "KursClient\\Models\\RegisterUser.cs",
@@ -405,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Models\\Response.cs",
               "RelativeDocumentMoniker": "KursClient\\Models\\Response.cs",
@@ -417,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "DataTemplate.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Utils\\DataTemplate.xaml",
               "RelativeDocumentMoniker": "KursClient\\Utils\\DataTemplate.xaml",
@@ -428,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Utils\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "KursClient\\Utils\\ViewModelBase.cs",
@@ -440,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Utils\\RelayCommand.cs",
               "RelativeDocumentMoniker": "KursClient\\Utils\\RelayCommand.cs",
@@ -452,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "NavigationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\NavigationViewModel.cs",
               "RelativeDocumentMoniker": "KursClient\\ViewModels\\NavigationViewModel.cs",
@@ -464,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AddEditFlight.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\AddEditFlight.xaml.cs",
               "RelativeDocumentMoniker": "KursClient\\Views\\AddEditFlight.xaml.cs",
@@ -476,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "AddEditPassenger.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\AddEditPassenger.xaml.cs",
               "RelativeDocumentMoniker": "KursClient\\Views\\AddEditPassenger.xaml.cs",
@@ -488,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KursClient\\Views\\MainWindow.xaml.cs",
@@ -500,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "FlightView.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\FlightView.xaml.cs",
               "RelativeDocumentMoniker": "KursClient\\Views\\FlightView.xaml.cs",
@@ -512,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "AddEditFlight.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\AddEditFlight.xaml",
               "RelativeDocumentMoniker": "KursClient\\Views\\AddEditFlight.xaml",
@@ -523,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AddEditPassenger.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\AddEditPassenger.xaml",
               "RelativeDocumentMoniker": "KursClient\\Views\\AddEditPassenger.xaml",
@@ -534,19 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PassengerViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\PassengerViewModel.cs",
-              "RelativeDocumentMoniker": "KursClient\\ViewModels\\PassengerViewModel.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\PassengerViewModel.cs",
-              "RelativeToolTip": "KursClient\\ViewModels\\PassengerViewModel.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAIwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:06:56.975Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KursClient\\Views\\MainWindow.xaml",
@@ -557,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "FlightView.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Views\\FlightView.xaml",
               "RelativeDocumentMoniker": "KursClient\\Views\\FlightView.xaml",
@@ -568,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "KursClient\\ViewModels\\LoginViewModel.cs",
@@ -580,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\App.xaml",
               "RelativeDocumentMoniker": "KursClient\\App.xaml",
@@ -591,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Models\\Flight.cs",
               "RelativeDocumentMoniker": "KursClient\\Models\\Flight.cs",
@@ -603,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Btn.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\Utils\\Btn.cs",
               "RelativeDocumentMoniker": "KursClient\\Utils\\Btn.cs",
@@ -615,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\KursClient\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "KursClient\\ViewModels\\HomeViewModel.cs",
@@ -627,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyCursS\\Properties\\launchSettings.json",
@@ -639,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "FreePlace.cs",
               "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\FreePlace.cs",
               "RelativeDocumentMoniker": "MyCursS\\Models\\FreePlace.cs",
@@ -648,18 +657,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T12:02:55.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Passenger.cs",
-              "RelativeDocumentMoniker": "MyCursS\\Models\\Passenger.cs",
-              "ToolTip": "C:\\Users\\MiHa0_o\\Desktop\\MyCursS\\MyCursS\\Models\\Passenger.cs",
-              "RelativeToolTip": "MyCursS\\Models\\Passenger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T12:02:50.372Z"
             },
             {
               "$type": "Document",

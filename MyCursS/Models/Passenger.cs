@@ -20,6 +20,5 @@ public partial class Passenger
 
     public int NumberFlight { get; set; }
     [JsonIgnore]
-
-    public virtual Flight NumberFlightNavigation { get; set; } = null!;
+    public virtual Flight? NumberFlightNavigation { get; set; }
 }

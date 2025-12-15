@@ -13,5 +13,5 @@ public partial class FreePlace
 
     public int? FreePlace1 { get; set; }
 
-    public virtual Flight NumberFlightNavigation { get; set; } = null!;
+    public virtual Flight? NumberFlightNavigation { get; set; }
 }
